@@ -136,4 +136,9 @@ tcpdump
 -xorg-x11-font-utils
 -xorg-x11-server-common
 -firewalld
+
+# support InfiniBand interface discovery
+rdma-core
+libibverbs
+infiniband-diags
 %end
